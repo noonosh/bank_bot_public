@@ -6,7 +6,7 @@ import logging
 import sqlite3
 from buttons import *
 import datetime
-from token import API_TOKEN
+from API_TOKEN import API_TOKEN
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO
