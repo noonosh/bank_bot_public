@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 users.sqlite
 token.py
+.idea/
+.DS_Store
 
 # C extensions
 *.so
